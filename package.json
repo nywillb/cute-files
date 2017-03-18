@@ -1,8 +1,8 @@
 {
-  "name": "cute-files",
-  "version": "1.0.2",
-  "description": "Turn any folder on your computer into a cute file browser, available on the local network.",
-  "main": "cute-files.js",
+  "name": "prettybrowser",
+  "version": "1.0.3",
+  "description": "Turn any local folder into a pretty website that anyone on the network can access.",
+  "main": "prettybrowser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,15 +10,16 @@
     "cute",
     "file",
     "browser",
-    "files"
+    "files",
+    "pretty"    
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/martinaglv/cute-files"
+    "url": "https://github.com/nywillb/cute-files"
   },
   "author": {
-    "name": "Martin Angelov",
-    "email": "martin@tutorialzine.com"
+    "name": "William B",
+    "email": "me@williambarkoff.com"
   },
   "license": "MIT",
   "dependencies": {
